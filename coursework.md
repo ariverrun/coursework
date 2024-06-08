@@ -55,4 +55,4 @@
         22. Новость (News)
         23. Программа лояльности (Loyalty Program)
     2. Схема
-        
+        ![Изображение](https://raw.githubusercontent.com/ariverrun/coursework/main/arch.concept.png "Концептуальная схема")
