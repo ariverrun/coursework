@@ -55,7 +55,7 @@
         13. Сенсор (Sensor)
         14. Тип показателя (Athletic Performance Metric Type)
         15. Запись показателя (Athletic Performance Metric)
-        16. История показателей (Athletic Performance Metric)
+        16. История показателей (Athletic Performance Metric History)
         17. Соревнование (Tournament)
         18. Участник соревнования (Tournament Participant)
         19. Достижение (Achievement)
