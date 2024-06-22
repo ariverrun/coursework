@@ -26,7 +26,7 @@ Processing units будут существовать во множественн
 
 4. Локальные хранилища сервисов. Сюда будут сбрасываться данные из in-memory data grid для того, чтобы не быть утерянными при сбое, а также те данные, доступ к которым может быть более медленным.
 
-![Изображение](https://raw.githubusercontent.com/ariverrun/coursework/main/assets/003%20Primary%20system%20components.img1.png "Схема основных компонентов")
+![Изображение](https://raw.githubusercontent.com/ariverrun/coursework/main/assets/003%20Primary%20system%20components.png "Схема основных компонентов")
 
 ## Статус:
 
