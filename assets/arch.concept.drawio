@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="-Afq3NjiMw3fcOSIW-k-" name="Page-1">
-        <mxGraphModel dx="901" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+        <mxGraphModel dx="911" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -388,7 +388,7 @@
                 <mxCell id="113" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;participates&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="500" y="320" width="50" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="Trournament&lt;br&gt;Participant" style="html=1;" parent="1" vertex="1">
+                <mxCell id="114" value="Tournament&lt;br&gt;Participant" style="html=1;" parent="1" vertex="1">
                     <mxGeometry x="720" y="400" width="80" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="115" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="99" target="114" edge="1">
