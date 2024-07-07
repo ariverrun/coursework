@@ -18,7 +18,7 @@
 
 Все эти сервисы будут объединены в рамках Process Unit.
 
-![Сервисы первого этапа](https://raw.githubusercontent.com/ariverrun/coursework/main/assets/005%202th%20step%20required%20services.png "Сервисы первого этапа")
+![Сервисы второго этапа](https://raw.githubusercontent.com/ariverrun/coursework/main/assets/009%202th%20step%20required%20services.png "Сервисы второго этапа")
 
 ## Статус:
 
