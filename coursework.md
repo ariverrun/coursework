@@ -216,6 +216,8 @@
 
 13. **Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества.**
 
+![Взаимодействие основных компонентов](https://raw.githubusercontent.com/ariverrun/coursework/main/assets/arch.concept.png "Взаимодействие основных компонентов")
+
 14. **Основные представления**
     1. [Функциональное.](https://github.com/ariverrun/coursework/blob/main/views/functional.md)
     2. [Информационное.](https://github.com/ariverrun/coursework/blob/main/views/informational.md)
