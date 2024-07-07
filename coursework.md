@@ -131,6 +131,20 @@
 
 При подсчете характеристик выяснилось, что наиболее подходящими для проекта архитектурными стилями являются Service-based и Space-based подходы. Первый дешевле в разработке и поддержке, второй лучше с точки зрения локализации и работы сервисов максимально близко к клиентам с географической точки зрения, что для проекта приоритетно, таким образом принято решение использовать Space-based подход.
 
+11. **Список ADR**
+    1. [Выбор платформы мобильного приложения.](https://github.com/ariverrun/coursework/blob/main/adr/001%20Native%20mobile%20app.md)
+    2. [Архитектурный подход к MVP.](https://github.com/ariverrun/coursework/blob/main/adr/002%20MVP%20architectural%20approach.md)
+    3. [Главные компоненты системы.](https://github.com/ariverrun/coursework/blob/main/adr/003%20Primary%20system%20components.md)
+    4. [Алгоритм роутинга и балансировки на уровне Messaging Grid.](https://github.com/ariverrun/coursework/blob/main/adr/004%20Messaging%20grid%20routing%20algorithm.md)
+    5. [Выделение сервисов, необходимых на первом этапе.](https://github.com/ariverrun/coursework/blob/main/adr/005%201st%20step%20required%20services.md)
+    6. [Подход к работе с распределенными данными.](https://github.com/ariverrun/coursework/blob/main/adr/006%20Distributed%20data%20approach.md)
+    7. [Взаимодействие пользователей с сервисами.](https://github.com/ariverrun/coursework/blob/main/adr/007%20Communication%20between%20user%20and%20services.md)
+    8. [Выбор СУБД.](https://github.com/ariverrun/coursework/blob/main/adr/008%20Databases%20choice.md)
+    9. [Выделение сервисов, необходимых на втором этапе.](https://github.com/ariverrun/coursework/blob/main/adr/009%202th%20step%20required%20services.md)
+    10. [Выделение сервисов, необходимых на третьем этапе.](https://github.com/ariverrun/coursework/blob/main/adr/010%203rd%20step%20required%20services.md)
+    11. [Выделение сервисов, необходимых на четвертом и пятом этапах.](https://github.com/ariverrun/coursework/blob/main/adr/011%204-5th%20steps%20required%20services.md)
+    12. [Выделение сервисов, необходимых на шестом этапе.](https://github.com/ariverrun/coursework/blob/main/adr/012%20%206th%20step%20required%20services.md)
+
 12. **Описание сценариев использования приложения**
 
     1. 
